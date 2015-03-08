@@ -1,0 +1,16 @@
+{
+  "name": "tessel",
+  "version": "1.0.0",
+  "description": "getting bio data with tessel modules ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faiq",
+  "license": "ISC",
+  "dependencies": {
+    "accel-mma84": "^0.2.4",
+    "audio-vs1053b": "^0.1.91",
+    "climate-si7020": "^0.1.1"
+  }
+}
